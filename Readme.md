@@ -1,0 +1,1 @@
+This is a git config repo for Spring cloud based [Quotes application](https://github.com/i-m-js/qts-spring-ms-app)
